@@ -8,7 +8,7 @@
 
 <h4>Foi elaborada a modelagem do banco de dados para visualizar o sistema como um todo.</h4>
 <div align="center">
-  ![derFarmacia](https://github.com/user-attachments/assets/c7302d4c-76e5-4790-800c-29c93ba83ee8)
+  ![DerFarmacia](derFarmacia.jpeg)
 </div>
 
 <h2>2️⃣ Criação do banco de dados</h2>
