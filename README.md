@@ -7,8 +7,7 @@
 <h2>1️⃣ Construção do DER</h2>
 
 <h4>Foi elaborada a modelagem do banco de dados para visualizar o sistema como um todo.</h4>
-<div align="center">
-  ![DerFarmacia](derFarmacia.jpeg)
+
 </div>
 
 <h2>2️⃣ Criação do banco de dados</h2>
