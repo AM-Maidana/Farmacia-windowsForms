@@ -8,9 +8,8 @@
 
 <h4>Foi elaborada a modelagem do banco de dados para visualizar o sistema como um todo.</h4>
 <div align="center">
-  <img src=""C:\Users\amandamaidana\Downloads\derFarmacia.jpeg"" alt="Texto Alternativo" width="300">
+  ![derFarmacia](https://github.com/user-attachments/assets/c7302d4c-76e5-4790-800c-29c93ba83ee8)
 </div>
-
 
 <h2>2️⃣ Criação do banco de dados</h2>
 <h4>Com base no DER, a equipe iniciou a construção do banco de dados. Algumas funções da aplicação foram implementadas diretamente no banco para facilitar a próxima etapa.</h4>
